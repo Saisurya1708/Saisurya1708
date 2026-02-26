@@ -40,7 +40,8 @@ I work comfortably across the stack: Python for data analysis and automation, Re
 
 ## Certifications & Education
 
-- B.Tech in Mechatronics from [Your University].
+- B.Tech in Mechatronics from Mahatma Gandhi Institute Of Technology.
+- Masters in Engineering Management from Lamar University.
 - TIA Portal Level 2 Certification.
 - Rockwell PLC Programming Certificate.
 - Coursera specialization in AI for Engineers.
