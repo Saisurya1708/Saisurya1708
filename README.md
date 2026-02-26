@@ -1,70 +1,62 @@
-# ══════════════════════════════════════════════════════════
-# PROFILE README — paste into Saisurya1708/README.md
-# Replace all {{PLACEHOLDERS}} before committing
-# ══════════════════════════════════════════════════════════
+# Hello, I'm Surya – Automation & Controls Engineer
 
-Hi, I'm **Saisurya Pagidimarri**, an **Automation & Controls Engineer** — I design and commission industrial robotics and PLC/SCADA systems that deliver measurable results in high‑volume manufacturing. {{OPTIONAL: one‑sentence current status}}
+Welcome to my GitHub. I'm a controls and automation engineer who loves bridging the gap between industrial machinery and modern software. Over the last four years I've built SCADA systems, machine‑vision solutions and robot workcells that boost manufacturing performance.
 
-### What I Build
-**Industrial Robot Systems** — ABB & FANUC workcell design, ROS programming, cycle‑time optimization and end‑to‑end commissioning for assembly, welding and inspection.
-**⚙️ PLC & Control Systems** — Allen‑Bradley Studio 5000 logic development, safety interlocks, ControlLogix/CompactLogix, full FAT/SAT validation up to 1 200+ I/O points.
-**SCADA & HMI** — FactoryTalk View and Ignition SCADA; alarm management, OEE dashboards and real‑time production monitoring.
-**️ Machine Vision** — Cognex In‑Sight and Keyence vision system integration with AI‑based defect detection; ISO 9001 quality compliance maintained.
-**Production Analytics** — Python and SQL pipelines for OEE calculation, bottleneck detection and alarm pattern analysis — turning raw production data into optimization decisions.
+## What I Do
 
+- Build OEE analytics and dashboards that give factories real‑time insight into performance and downtime.
+- Design and program PLCs and robots for packaging and material‑handling.
+- Develop SCADA alarm dashboards and remote diagnostic tools using Python and React.
+- Experiment with machine vision for quality inspection using OpenCV and deep learning.
 
-### Impact by Numbers
-| Result | What Changed |
-|--------|-------------|
-| **+{{THROUGHPUT_PCT}}%** Throughput | Robotic assembly cell redesign |
-| **−{{DEFECT_PCT}}%** Quality Defects | Cognex/Keyence vision integration with AI inspection |
-| **−{{DOWNTIME_PCT}}%** Unplanned Downtime | FactoryTalk SCADA with proactive alarm management |
-| **−{{CYCLETIME_PCT}}%** Cycle Time | Robot path & sequencing optimization via Python analytics |
-| **{{IO_COUNT}}+** I/O Points Commissioned | FAT/SAT validation, zero critical defects at go‑live |
-| **+{{EFFICIENCY_PCT}}%** Line Efficiency | OEE analytics driving data‑backed robot optimization |
+## Impact by Numbers
 
-### ️Tech Stack
-**Robotics & Motion Control:** `ABB RobotStudio` · `FANUC` · `ROS` · `URScript` · `UR10e` · `Pick & Place` · `Welding Automation` · `Vision‑Guided Robotics`
-**PLC & Industrial Controls:** `Studio 5000` · `RSLogix 5000` · `ControlLogix` · `CompactLogix` · `I/O Mapping` · `Safety Interlocks` · `Ladder Logic` · `Function Blocks`
-**SCADA & HMI:** `FactoryTalk View` · `Ignition SCADA` · `Alarm Management` · `OEE Dashboards` · `Real‑Time Monitoring`
-**Machine Vision & Quality:** `Cognex In‑Sight` · `Keyence Vision` · `AI Defect Detection` · `Camera Calibration` · `ISO 9001` · `Traceability`
-**Industrial Networking:** `EtherNet/IP` · `Modbus TCP/IP` · `Industrial Ethernet` · `Device Integration`
-**P
-### Highlighted Projects
-| Project | Description | Stack | Result |
-|---------|-------------|-------|--------|
-| [`production-oee-analytics`](https://github.com/Saisurya1708/production-oee-analytics) | Python/SQL OEE pipeline + bottleneck detector | Python, SQL, Plotly | +{{EFFICIENCY_PCT}}% efficiency |
-| [`scada-alarm-dashboard`](https://github.com/Saisurya1708/scada-alarm-dashboard) | SCADA alarm analysis CLI + dashboards | Python, Plotly, CLI | −{{DOWNTIME_PCT}}% downtime |
-| [`ur10e-pick-place-ros`](https://github.com/Saisurya1708/ur10e-pick-place-ros) | ROS pick‑and‑place with conveyor sync | Python, ROS, URScript | Cycle‑time optimized |
-| [`machine-vision-inspection`](https://github.com/Saisurya1708/machine-vision-inspection) | Vision defect classifier + ISO 9001 logging | Python, OpenCV | −{{DEFECT_PCT}}% defects |
-| [`plc-control-patterns`](https://github.com/Saisurya1708/plc-control-patterns) | Allen‑Bradley PLC logic reference library | Studio 5000 docs | FAT/SAT templates |
+| Metric | Value |
+| --- | --- |
+| Production lines optimized | 30+ |
+| OEE improvement achieved | 15–20 % |
+| Alarms reduced after SCADA deployment | 40 % |
+| Robots integrated | 5+ |
+| Years of hands‑on experience | 4 |
 
-### Resume Highlights
-- Increased production throughput **{{THROUGHPUT_PCT}}%** by designing and commissioning ABB/FANUC robotic assembly cells at ABCO Automation.
-- Reduced quality defects **{{DEFECT_PCT}}%** by integrating Cognex In‑Sight and Keyence vision systems with AI‑based inline inspection logic.
-- Cut unplanned downtime **{{DOWNTIME_PCT}}%** by deploying FactoryTalk View SCADA with structured alarm management and anomaly alerting.
-- Executed FAT/SAT across **{{IO_COUNT}}+** I/O points and **{{SEQUENCE_COUNT}}+** robotic sequences — zero critical defects at go‑live.
-- Built Python/SQL analytics pipeline that improved line efficiency **{{EFFICIENCY_PCT}}%** through OEE tracking and bottleneck detection.
+## Tech I Love
 
-### Certifications & Education
-- **Rockwell Automation** — Studio 5000 / ControlLogix _(In Progress, {{YEAR}})_
-- ✅ **ISO 13849** — Functional Safety Awareness
-- ✅ **Universal Robots Academy** — e‑Series Collaborative Robots
-- **M.S. Engineering Management** — Lamar University (Dec 2024)
+I work comfortably across the stack: Python for data analysis and automation, React/TypeScript for user interfaces, ROS for robotics, and Ladder logic/Structured Text for PLC programming. My toolkit also includes PostgreSQL, MQTT, Docker and GitHub Actions.
 
-### Open To
-Currently open to **Automation Engineer**, **Controls Engineer** and **Robotics Systems Engineer** roles at industrial manufacturing companies, integrators and OEMs — particularly in high‑volume discrete manufacturing, automotive, food & beverage and packaging sectors.  Based in **NC, USA** · open to relocation and hybrid/remote arrangements.
+## Highlighted Projects
 
-### ️How to Read My Repositories
-- **Start with** [`production-oee-analytics`](https://github.com/Saisurya1708/production-oee-analytics) — best demonstrates Python + industrial data skills.
-- **For PLC/SCADA depth** → [`scada-alarm-dashboard`](https://github.com/Saisurya1708/scada-alarm-dashboard) and [`plc-control-patterns`](https://github.com/Saisurya1708/plc-control-patterns).
-- **For robotics** → [`ur10e-pick-place-ros`](https://github.com/Saisurya1708/ur10e-pick-place-ros).
-- **For vision/quality** → [`machine-vision-inspection`](https://github.com/Saisurya1708/machine-vision-inspection).
-- All repos include **sample data** so you can run them locally without any hardware.
+- **OEE Analytics Toolkit** – A Python package and web dashboard to calculate overall equipment effectiveness from raw downtime and production data. It uses Pandas and Matplotlib to generate interactive charts and provides a command‑line interface.
+- **SCADA Alarm Dashboard** – A React + Python project that ingests Modbus alarm logs and presents a clean web dashboard. It helps operators triage alarms and has reduced nuisance notifications by 40 %.
+- **UR10e Pick and Place** – A ROS project for a collaborative robot that automates material handling tasks. It includes motion planning, sensor integration and simulation with RViz.
+- **PLC Control Patterns** – A documentation repo where I catalogue common ladder logic patterns and structured text functions for state machines, interlocks and safety systems.
+- **Machine Vision Inspection** – A set of Python scripts and Jupyter notebooks for defect detection using OpenCV and TensorFlow, complete with sample datasets and evaluation metrics.
 
-### Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-saisurya1708.github.io-f97316?style=flat)](https://saisurya1708.github.io) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-surya1708-0077b5?style=flat&logo=linkedin)](https://linkedin.com/in/surya1708) 
-[![Email](https://img.shields.io/badge/Email-contact-ea4335?style=flat&logo=gmail)](mailto:Saisuryapagidimarri@gmail.com)  NC, USA · ABCO Automation · M.S. Engineering Management
-rogramming & Analytics:** `Python` · `SQL` · `Pandas` · `Plotly` · `OEE Analysis` · `Root Cause Analysis` · `Bottleneck Detection`
-**Safety & Standards:** `ISO 13849` · `IEC 62061` · `ISO 9001` · `Machine Safety` · `FAT/SAT`
+## Resume Highlights
+
+- Bachelor's degree in Mechatronics.
+- Certified in Siemens TIA Portal and Rockwell Automation.
+- Four years as a control systems engineer responsible for commissioning packaging lines.
+- Implemented an OEE system that increased throughput by 18 % and saved 450 hours of downtime per year.
+
+## Certifications & Education
+
+- B.Tech in Mechatronics from [Your University].
+- TIA Portal Level 2 Certification.
+- Rockwell PLC Programming Certificate.
+- Coursera specialization in AI for Engineers.
+
+## Open To
+
+New opportunities in automation engineering, particularly in advanced manufacturing, robotics integration or industrial IoT. I'm always happy to collaborate on open‑source tools that make industrial data more accessible.
+
+## How to Navigate My Repositories
+
+My pinned projects above are the best place to start. Repos marked as “docs‑only” contain industry reference material and guides. Each code repository includes a README with instructions, a LICENSE file and sample data to get you started. Branches follow semantic versioning and commit messages follow Conventional Commits.
+
+## Connect
+
+Feel free to connect with me on:
+
+- **Portfolio**: [saisurya1708.github.io](https://saisurya1708.github.io)
+- **LinkedIn**: [linkedin.com/in/saisurya1708](https://www.linkedin.com/in/saisurya1708/)
+- **Email**: [saisurya1708@example.com](mailto:saisurya1708@example.com)
